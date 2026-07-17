@@ -39,6 +39,7 @@ wheels/
 venv/
 env/
 ENV/
+.venv312/
 
 # IDE
 .vscode/
